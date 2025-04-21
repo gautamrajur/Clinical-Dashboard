@@ -49,12 +49,3 @@ This project features:
 - ### 🖼️ Exportable Reports UI  
   ![Report Export Screenshot](./screenshots/export-reports.png)
 
----
-
-## ⚙️ Local Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone <YOUR_GIT_URL>
-cd clinical-dashboard
